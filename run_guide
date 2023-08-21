@@ -1,0 +1,17 @@
+## Need to extract the vocals with "https://github.com/Anjok07/ultimatevocalremovergui"
+## install the software and use the "VR Architecture -- 1_HP-UVR" to extract the vocals, dont forget to check the "Vocal Only" box
+
+## slice audio
+python utils/audio_slicer.py
+
+# resample --> remove "dataset" folder first
+python so-vits-svc/resample.py 
+
+## create config and split to train and val
+python so-vits-svc/preprocess_flist_config.py  --speech_encoder vec768l12 --vol_aug
+
+## Generate hubert and f0
+python so-vits-svc/preprocess_hubert_f0.py --f0_predictor dio --num_processes 3
+
+## Train
+python so-vits-svc/train.py -c so-vits-svc/configs/config.json -m 44k

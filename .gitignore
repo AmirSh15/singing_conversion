@@ -1,0 +1,14 @@
+# files
+*.pt
+*.pth
+*.log
+events*
+
+# directories
+.vscode/
+so-vits-svc/.github/
+so-vits-svc/configs/
+so-vits-svc/dataset/44k/*/
+so-vits-svc/dataset_raw/*/
+so-vits-svc/raw/*/
+so-vits-svc/raw_vocal/*/

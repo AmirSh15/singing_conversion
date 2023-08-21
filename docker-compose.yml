@@ -1,0 +1,21 @@
+version: '0.0'
+services:
+  sing_conv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/home # mount current directory to container
+    working_dir: /home
+    # give gpu access to container
+    shm_size: 2gb
+    deploy:
+      resources:
+          reservations:
+            devices:
+              - driver: nvidia
+                count: 1
+                capabilities: [gpu]
+    command: tail -f /dev/null # keep container running
