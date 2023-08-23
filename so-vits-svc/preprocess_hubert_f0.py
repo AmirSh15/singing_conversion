@@ -127,7 +127,7 @@ def parallel_process(filenames, num_processes, f0p, diff, mel_extractor, device)
         for task in tqdm(tasks, position = 0):
             task.result()
 
-if __name__ == "__main__":
+def preprocess():
     parser = argparse.ArgumentParser()
     parser.add_argument('-d', '--device', type=str, default=None)
     parser.add_argument(
@@ -170,3 +170,6 @@ if __name__ == "__main__":
         num_processes = os.cpu_count()
 
     parallel_process(filenames, num_processes, f0p, args.use_diff, mel_extractor, device)
+
+if __name__ == "__main__":
+    preprocess()

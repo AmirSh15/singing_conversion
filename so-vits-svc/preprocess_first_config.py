@@ -25,10 +25,11 @@ def get_wav_duration(file_path):
         logger.error(f"Reading {file_path}")
         raise e
 
-if __name__ == "__main__":
+def make_config():
     parser = argparse.ArgumentParser()
     parser.add_argument("--train_list", type=str, default="/home/so-vits-svc/filelists/train.txt", help="path to train list")
     parser.add_argument("--val_list", type=str, default="/home/so-vits-svc/filelists/val.txt", help="path to val list")
+    parser.add_argument("--val_ratio", type=float, default=0.2, help="ratio of validation set")
     parser.add_argument("--source_dir", type=str, default="/home/so-vits-svc/dataset/44k", help="path to source dir")
     parser.add_argument("--speech_encoder", type=str, default="vec768l12", help="choice a speech encoder|'vec768l12','vec256l9','hubertsoft','whisper-ppg','cnhubertlarge','dphubert','whisper-ppg-large','wavlmbase+'")
     parser.add_argument("--vol_aug", action="store_true", help="Whether to use volume embedding and volume augmentation")
@@ -65,8 +66,9 @@ if __name__ == "__main__":
             wavs.append(file_path)
 
         shuffle(wavs)
-        train += wavs[2:]
-        val += wavs[:2]
+        train_len = int(len(wavs) * (1 - args.val_ratio))
+        train += wavs[:train_len]
+        val += wavs[train_len:]
 
     shuffle(train)
     shuffle(val)
@@ -117,3 +119,6 @@ if __name__ == "__main__":
         json.dump(config_template, f, indent=2)
     logger.info("Writing to configs/diffusion.yaml")
     du.save_config("/home/so-vits-svc/configs/diffusion.yaml",d_config_template)
+
+if __name__ == "__main__":
+    make_config()

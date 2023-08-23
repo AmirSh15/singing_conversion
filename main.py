@@ -2,6 +2,17 @@ import argparse
 import os
 
 from utils.utils import download_audio_results
+from utils.vocal_remover import vocal_remover
+from utils.audio_slicer import audio_slice
+
+# include "so-vits-svc" as python path
+import sys
+
+from tqdm import tqdm
+sys.path.append('/home/so-vits-svc/')
+from resample import resample
+from preprocess_first_config import make_config
+from preprocess_hubert_f0 import preprocess
 
 import logging
 
@@ -20,6 +31,7 @@ def get_args():
     parser.add_argument('--keywords', type=str, nargs='+', default=['adele', 'micheal jakson'], help='the name of signers to search')
     parser.add_argument('--num_pages', type=int, default=5, help='the number of pages to search')
     parser.add_argument('--output_path', type=str, default='./so-vits-svc/raw', help='the path to save the audio files')
+    parser.add_argument('--advanced', type=bool, default=False, help='whether to use the advanced slicing method')
     args = parser.parse_args()
 
     return args
@@ -36,6 +48,22 @@ def main():
     # download the audio files for singers in the keywords list
     for keyword in args.keywords:
         download_audio_results(keyword, args.output_path, args.num_pages)
+        
+    # remove the vocal from the audio files
+    if args.advanced:
+        vocal_remover()
+    
+    # slice the audio files
+    audio_slice(advanced=args.advanced)
+    
+    # resample the audio files to 44.1 kHz
+    resample()
+    
+    # make the config files (train and val split)
+    make_config()
+    
+    # Generate hubert and F0 features
+    preprocess()
         
 if __name__ == '__main__':
     main()

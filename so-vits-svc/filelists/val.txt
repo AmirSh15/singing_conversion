@@ -1,0 +1,961 @@
+/home/so-vits-svc/dataset/44k/adele/RDRwqTNLGDs_28.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_105.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_38.wav
+/home/so-vits-svc/dataset/44k/adele/oPmMUZbnc3o_25.wav
+/home/so-vits-svc/dataset/44k/adele/BW9Fzwuf43c_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yUi_S6YWjZw_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Sd4SJVsTulc_66.wav
+/home/so-vits-svc/dataset/44k/adele/HfBsCBvjDVk_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/crbFmpezO4A_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/s3wNuru4U0I_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/llZ2NQaLXkU_39.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l5Us9FqgsZk_2.wav
+/home/so-vits-svc/dataset/44k/adele/IJYWmqlty_8_8.wav
+/home/so-vits-svc/dataset/44k/adele/yoHS2T32Z5o_35.wav
+/home/so-vits-svc/dataset/44k/adele/KbMp1o3NBbI_24.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XAi3VTSdTxU_25.wav
+/home/so-vits-svc/dataset/44k/adele/RDRwqTNLGDs_26.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_48.wav
+/home/so-vits-svc/dataset/44k/adele/oPmMUZbnc3o_7.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Zi_XLOBDo_Y_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_41.wav
+/home/so-vits-svc/dataset/44k/adele/9YH5CoKqM8I_20.wav
+/home/so-vits-svc/dataset/44k/adele/3asdV5ZQ5IU_13.wav
+/home/so-vits-svc/dataset/44k/adele/SJIcjLrANs0_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_40.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ic1fvvkgC5w_29.wav
+/home/so-vits-svc/dataset/44k/adele/9IzKueQ2ZxY_24.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/n3qQtSRmHxo_3.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_109.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_50.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElN_4vUvTPs_23.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/c3_NntYhzV4_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_111.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/8fO8jVZ3T9g_18.wav
+/home/so-vits-svc/dataset/44k/adele/HfBsCBvjDVk_17.wav
+/home/so-vits-svc/dataset/44k/adele/rYEDA3JcQqw_1.wav
+/home/so-vits-svc/dataset/44k/adele/9Y06jakOV_g_20.wav
+/home/so-vits-svc/dataset/44k/adele/HDpCv71r-0U_1.wav
+/home/so-vits-svc/dataset/44k/adele/l83md2sMAA4_13.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_57.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_57.wav
+/home/so-vits-svc/dataset/44k/adele/SrSPVB2d_j4_3.wav
+/home/so-vits-svc/dataset/44k/adele/lHv1COHECuM_8.wav
+/home/so-vits-svc/dataset/44k/adele/HDpCv71r-0U_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_12.wav
+/home/so-vits-svc/dataset/44k/adele/HfBsCBvjDVk_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Ivc3hJhgfsE_10.wav
+/home/so-vits-svc/dataset/44k/adele/jDvYDzFOK9A_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/0RuAlyNclck_12.wav
+/home/so-vits-svc/dataset/44k/adele/U3ASj1L6_sY_23.wav
+/home/so-vits-svc/dataset/44k/adele/cvqFu6HL0Xs_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_6.wav
+/home/so-vits-svc/dataset/44k/adele/qemWRToNYJY_22.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/y2bVIBwpCTA_7.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l-zzkmR-Lt4_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/s3wNuru4U0I_38.wav
+/home/so-vits-svc/dataset/44k/adele/7zlEIikwxPo_10.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_147.wav
+/home/so-vits-svc/dataset/44k/adele/qOagQWjKpyM_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_30.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/wBvJ35gnR0Q_49.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_76.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_2.wav
+/home/so-vits-svc/dataset/44k/adele/g5D8KA00Ubw_6.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_54.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/5X-Mrc2l1d0_5.wav
+/home/so-vits-svc/dataset/44k/adele/niG3YMU6jFk_10.wav
+/home/so-vits-svc/dataset/44k/adele/DDWKuo3gXMQ_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/1ZZQuj6htF4_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Xh9Cp4rd7mI_2.wav
+/home/so-vits-svc/dataset/44k/adele/X-yIEMduRXk_7.wav
+/home/so-vits-svc/dataset/44k/adele/jb5g4UFHmfQ_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yUi_S6YWjZw_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/-IMOBCzDKiY_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_125.wav
+/home/so-vits-svc/dataset/44k/adele/HDpCv71r-0U_35.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_12.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_129.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_77.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_53.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_19.wav
+/home/so-vits-svc/dataset/44k/adele/jptpkiCVfAs_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_68.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_145.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_60.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VOj_xsc-EBM_43.wav
+/home/so-vits-svc/dataset/44k/adele/-q6gUoJgZCM_22.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_78.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XAi3VTSdTxU_35.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/h_D3VFfhvs4_12.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_133.wav
+/home/so-vits-svc/dataset/44k/adele/jDvYDzFOK9A_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/EG_UYkqvSN0_16.wav
+/home/so-vits-svc/dataset/44k/adele/niIWKO6LNRM_23.wav
+/home/so-vits-svc/dataset/44k/adele/EqiHnmjY9fA_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElN_4vUvTPs_29.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/YlJvMU-5NyA_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/zSaFt_Jijaw_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oRdxUFDoQe0_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_22.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/sOnqjkJTMaA_60.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_36.wav
+/home/so-vits-svc/dataset/44k/adele/X-yIEMduRXk_13.wav
+/home/so-vits-svc/dataset/44k/adele/mnH9FHfD0Zg_3.wav
+/home/so-vits-svc/dataset/44k/adele/KnEgu_jFvk4_10.wav
+/home/so-vits-svc/dataset/44k/adele/LwXQ7WUh-D0_25.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QNJL6nfu__Q_9.wav
+/home/so-vits-svc/dataset/44k/adele/yoHS2T32Z5o_0.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_33.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/sOnqjkJTMaA_41.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VrTC3FHE8No_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/sOnqjkJTMaA_57.wav
+/home/so-vits-svc/dataset/44k/adele/l83md2sMAA4_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/EG_UYkqvSN0_29.wav
+/home/so-vits-svc/dataset/44k/adele/dJg4_rL9h7Q_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/USb2tN1Yq18_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/USb2tN1Yq18_35.wav
+/home/so-vits-svc/dataset/44k/adele/9YH5CoKqM8I_18.wav
+/home/so-vits-svc/dataset/44k/adele/-q6gUoJgZCM_2.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_62.wav
+/home/so-vits-svc/dataset/44k/adele/LwXQ7WUh-D0_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oRdxUFDoQe0_7.wav
+/home/so-vits-svc/dataset/44k/adele/g7W_uoWsWOw_5.wav
+/home/so-vits-svc/dataset/44k/adele/ws3mNc8izuk_6.wav
+/home/so-vits-svc/dataset/44k/adele/jDvYDzFOK9A_9.wav
+/home/so-vits-svc/dataset/44k/adele/cKem3ZpPSHU_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_10.wav
+/home/so-vits-svc/dataset/44k/adele/niIWKO6LNRM_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oG08ukJPtR8_22.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/UJHCB_J-Tmg_32.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Xh9Cp4rd7mI_9.wav
+/home/so-vits-svc/dataset/44k/adele/dJg4_rL9h7Q_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/gDgbYcVOVJU_37.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/sOnqjkJTMaA_38.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/EG_UYkqvSN0_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_34.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_148.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/RCmuTH6T7fk_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jDRTghGZ7XU_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/c3_NntYhzV4_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/98XFOIkM8Ks_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/g4tpuu-Up90_21.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_35.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/UJHCB_J-Tmg_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/RCmuTH6T7fk_11.wav
+/home/so-vits-svc/dataset/44k/adele/jb5g4UFHmfQ_14.wav
+/home/so-vits-svc/dataset/44k/adele/L4wxMngrHis_8.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_127.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/5X-Mrc2l1d0_13.wav
+/home/so-vits-svc/dataset/44k/adele/SJIcjLrANs0_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/s3wNuru4U0I_33.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_27.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_84.wav
+/home/so-vits-svc/dataset/44k/adele/KnEgu_jFvk4_13.wav
+/home/so-vits-svc/dataset/44k/adele/X-yIEMduRXk_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/s3wNuru4U0I_35.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_80.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElN_4vUvTPs_31.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oG08ukJPtR8_6.wav
+/home/so-vits-svc/dataset/44k/adele/DeumyOzKqgI_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElN_4vUvTPs_21.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QNJL6nfu__Q_17.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/tOgftEf7UDg_4.wav
+/home/so-vits-svc/dataset/44k/adele/YQHsXMglC9A_16.wav
+/home/so-vits-svc/dataset/44k/adele/HDpCv71r-0U_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l-zzkmR-Lt4_4.wav
+/home/so-vits-svc/dataset/44k/adele/0TruPEEie3c_7.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/USb2tN1Yq18_34.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElN_4vUvTPs_26.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_85.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_27.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/_QqCu0ktlhM_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_67.wav
+/home/so-vits-svc/dataset/44k/adele/jDvYDzFOK9A_33.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_118.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_113.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_62.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Ivc3hJhgfsE_26.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_7.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/1ZZQuj6htF4_28.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_30.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/sOnqjkJTMaA_50.wav
+/home/so-vits-svc/dataset/44k/adele/jptpkiCVfAs_17.wav
+/home/so-vits-svc/dataset/44k/adele/U3ASj1L6_sY_22.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/8EAlABfZ-3E_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Ivc3hJhgfsE_40.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/gDgbYcVOVJU_35.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ssYVdchC64s_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/wBvJ35gnR0Q_11.wav
+/home/so-vits-svc/dataset/44k/adele/lHv1COHECuM_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hAtfgmq_BP4_19.wav
+/home/so-vits-svc/dataset/44k/adele/LwXQ7WUh-D0_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yONgtrFScNA_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QNJL6nfu__Q_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ic1fvvkgC5w_37.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/1ZZQuj6htF4_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/q8w1d01Y2vY_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Sk5OECxSawM_21.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/F2AitTPI5U0_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_41.wav
+/home/so-vits-svc/dataset/44k/adele/DDWKuo3gXMQ_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XAi3VTSdTxU_10.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_98.wav
+/home/so-vits-svc/dataset/44k/adele/9YH5CoKqM8I_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/UJHCB_J-Tmg_31.wav
+/home/so-vits-svc/dataset/44k/adele/9YH5CoKqM8I_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/RCmuTH6T7fk_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/wBvJ35gnR0Q_30.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/0P4A1K4lXDo_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_48.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hAtfgmq_BP4_21.wav
+/home/so-vits-svc/dataset/44k/adele/3PzOMc3w4PA_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/DKFS2tDsZRY_16.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_21.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/f3V-7DEAgdc_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_52.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oRdxUFDoQe0_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qLCu4IXKvvU_10.wav
+/home/so-vits-svc/dataset/44k/adele/BW9Fzwuf43c_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_35.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_88.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/LeiFF0gvqcc_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_107.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_63.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_106.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_43.wav
+/home/so-vits-svc/dataset/44k/adele/L4wxMngrHis_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_50.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/g4tpuu-Up90_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Ivc3hJhgfsE_28.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_75.wav
+/home/so-vits-svc/dataset/44k/adele/z7GCiVTlv04_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_48.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yUi_S6YWjZw_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/USb2tN1Yq18_0.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_48.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Zi_XLOBDo_Y_6.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_22.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_67.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/crbFmpezO4A_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QNJL6nfu__Q_21.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l5Us9FqgsZk_0.wav
+/home/so-vits-svc/dataset/44k/adele/LwXQ7WUh-D0_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VrTC3FHE8No_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/gDgbYcVOVJU_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/nqxVMLVe62U_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/_QqCu0ktlhM_19.wav
+/home/so-vits-svc/dataset/44k/adele/dJg4_rL9h7Q_24.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yONgtrFScNA_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jDRTghGZ7XU_24.wav
+/home/so-vits-svc/dataset/44k/adele/X-yIEMduRXk_5.wav
+/home/so-vits-svc/dataset/44k/adele/RDRwqTNLGDs_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oG08ukJPtR8_17.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/s3wNuru4U0I_32.wav
+/home/so-vits-svc/dataset/44k/adele/9IzKueQ2ZxY_4.wav
+/home/so-vits-svc/dataset/44k/adele/0TruPEEie3c_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/UJHCB_J-Tmg_22.wav
+/home/so-vits-svc/dataset/44k/adele/jDvYDzFOK9A_29.wav
+/home/so-vits-svc/dataset/44k/adele/hLQl3WQQoQ0_1.wav
+/home/so-vits-svc/dataset/44k/adele/cvqFu6HL0Xs_13.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_107.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_2.wav
+/home/so-vits-svc/dataset/44k/adele/cKem3ZpPSHU_15.wav
+/home/so-vits-svc/dataset/44k/adele/yoHS2T32Z5o_9.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_90.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yUi_S6YWjZw_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/sOnqjkJTMaA_59.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oG08ukJPtR8_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/RCmuTH6T7fk_16.wav
+/home/so-vits-svc/dataset/44k/adele/cvqFu6HL0Xs_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hgAOJ7Dw6WE_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Ivc3hJhgfsE_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/F2AitTPI5U0_17.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/USb2tN1Yq18_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/LeiFF0gvqcc_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/g4tpuu-Up90_19.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_31.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_105.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yUi_S6YWjZw_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/wBvJ35gnR0Q_18.wav
+/home/so-vits-svc/dataset/44k/adele/niG3YMU6jFk_9.wav
+/home/so-vits-svc/dataset/44k/adele/3SojhAemf34_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_81.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/-IMOBCzDKiY_21.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yONgtrFScNA_21.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_83.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_32.wav
+/home/so-vits-svc/dataset/44k/adele/g7U96o3f9FI_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/LeiFF0gvqcc_44.wav
+/home/so-vits-svc/dataset/44k/adele/dJg4_rL9h7Q_2.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_72.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_14.wav
+/home/so-vits-svc/dataset/44k/adele/qemWRToNYJY_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/h_D3VFfhvs4_2.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_46.wav
+/home/so-vits-svc/dataset/44k/adele/fbmI-z_mIpk_0.wav
+/home/so-vits-svc/dataset/44k/adele/7zlEIikwxPo_1.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_62.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_83.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QqV_Iru4I2k_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_26.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_146.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_46.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElZPE_Hv96k_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_86.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_93.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Sd4SJVsTulc_32.wav
+/home/so-vits-svc/dataset/44k/adele/KbMp1o3NBbI_17.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElZPE_Hv96k_28.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_100.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/gDgbYcVOVJU_11.wav
+/home/so-vits-svc/dataset/44k/adele/g7U96o3f9FI_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_149.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_21.wav
+/home/so-vits-svc/dataset/44k/adele/niIWKO6LNRM_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/LeiFF0gvqcc_35.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/g4tpuu-Up90_10.wav
+/home/so-vits-svc/dataset/44k/adele/qOagQWjKpyM_6.wav
+/home/so-vits-svc/dataset/44k/adele/KnEgu_jFvk4_12.wav
+/home/so-vits-svc/dataset/44k/adele/X-yIEMduRXk_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_131.wav
+/home/so-vits-svc/dataset/44k/adele/IJYWmqlty_8_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/DKFS2tDsZRY_18.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/UJHCB_J-Tmg_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yUi_S6YWjZw_14.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jDRTghGZ7XU_2.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_106.wav
+/home/so-vits-svc/dataset/44k/adele/9YH5CoKqM8I_28.wav
+/home/so-vits-svc/dataset/44k/adele/pTpd0qG98eE_9.wav
+/home/so-vits-svc/dataset/44k/adele/7zlEIikwxPo_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/n3qQtSRmHxo_47.wav
+/home/so-vits-svc/dataset/44k/adele/jb5g4UFHmfQ_28.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_104.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElZPE_Hv96k_22.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/-IMOBCzDKiY_5.wav
+/home/so-vits-svc/dataset/44k/adele/dJg4_rL9h7Q_34.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_87.wav
+/home/so-vits-svc/dataset/44k/adele/9eGbL5jSMH8_7.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_21.wav
+/home/so-vits-svc/dataset/44k/adele/RDRwqTNLGDs_8.wav
+/home/so-vits-svc/dataset/44k/adele/cKem3ZpPSHU_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ic1fvvkgC5w_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_69.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/LeiFF0gvqcc_33.wav
+/home/so-vits-svc/dataset/44k/adele/KnEgu_jFvk4_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/crbFmpezO4A_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VrTC3FHE8No_5.wav
+/home/so-vits-svc/dataset/44k/adele/jDvYDzFOK9A_32.wav
+/home/so-vits-svc/dataset/44k/adele/dzPB7yKjNPE_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/gDgbYcVOVJU_22.wav
+/home/so-vits-svc/dataset/44k/adele/3asdV5ZQ5IU_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VOj_xsc-EBM_44.wav
+/home/so-vits-svc/dataset/44k/adele/Ri7-vnrJD3k_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_7.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/DKFS2tDsZRY_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElZPE_Hv96k_36.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_25.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ic1fvvkgC5w_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_125.wav
+/home/so-vits-svc/dataset/44k/adele/jb5g4UFHmfQ_2.wav
+/home/so-vits-svc/dataset/44k/adele/cvqFu6HL0Xs_30.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_32.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ssYVdchC64s_22.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_73.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_50.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_9.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_50.wav
+/home/so-vits-svc/dataset/44k/adele/g5D8KA00Ubw_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_47.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_70.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l-zzkmR-Lt4_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_8.wav
+/home/so-vits-svc/dataset/44k/adele/9Y06jakOV_g_8.wav
+/home/so-vits-svc/dataset/44k/adele/QDt__hwn7Nc_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/n3qQtSRmHxo_31.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/0P4A1K4lXDo_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_32.wav
+/home/so-vits-svc/dataset/44k/adele/SrSPVB2d_j4_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/nqxVMLVe62U_16.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/h_D3VFfhvs4_18.wav
+/home/so-vits-svc/dataset/44k/adele/EFIfRhk8NRc_5.wav
+/home/so-vits-svc/dataset/44k/adele/3SojhAemf34_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hgAOJ7Dw6WE_26.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_23.wav
+/home/so-vits-svc/dataset/44k/adele/BW9Fzwuf43c_5.wav
+/home/so-vits-svc/dataset/44k/adele/rRWJcxa6mdo_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_66.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_70.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/zSaFt_Jijaw_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/sOnqjkJTMaA_1.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_117.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_96.wav
+/home/so-vits-svc/dataset/44k/adele/HDpCv71r-0U_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_0.wav
+/home/so-vits-svc/dataset/44k/adele/U3ASj1L6_sY_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/USb2tN1Yq18_26.wav
+/home/so-vits-svc/dataset/44k/adele/0put0_a--Ng_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_16.wav
+/home/so-vits-svc/dataset/44k/adele/EqiHnmjY9fA_7.wav
+/home/so-vits-svc/dataset/44k/adele/jb5g4UFHmfQ_20.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_114.wav
+/home/so-vits-svc/dataset/44k/adele/g7W_uoWsWOw_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/s3wNuru4U0I_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/n3qQtSRmHxo_20.wav
+/home/so-vits-svc/dataset/44k/adele/niIWKO6LNRM_2.wav
+/home/so-vits-svc/dataset/44k/adele/IJYWmqlty_8_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/g4tpuu-Up90_18.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Sd4SJVsTulc_75.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ic1fvvkgC5w_27.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/0RuAlyNclck_19.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_7.wav
+/home/so-vits-svc/dataset/44k/adele/U3ASj1L6_sY_5.wav
+/home/so-vits-svc/dataset/44k/adele/5EOCjY5UZvQ_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/LeiFF0gvqcc_32.wav
+/home/so-vits-svc/dataset/44k/adele/-hzFTJDJGkQ_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hAtfgmq_BP4_42.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Sd4SJVsTulc_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QGhaNkgJNro_15.wav
+/home/so-vits-svc/dataset/44k/adele/7zlEIikwxPo_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_94.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/UJHCB_J-Tmg_42.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ic1fvvkgC5w_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jl-LykdDi7I_15.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_19.wav
+/home/so-vits-svc/dataset/44k/adele/9IzKueQ2ZxY_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_13.wav
+/home/so-vits-svc/dataset/44k/adele/7zlEIikwxPo_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_128.wav
+/home/so-vits-svc/dataset/44k/adele/jptpkiCVfAs_19.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_125.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/llZ2NQaLXkU_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jDRTghGZ7XU_27.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_67.wav
+/home/so-vits-svc/dataset/44k/adele/yoHS2T32Z5o_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_45.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_58.wav
+/home/so-vits-svc/dataset/44k/adele/9YH5CoKqM8I_26.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VOj_xsc-EBM_2.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_98.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/EG_UYkqvSN0_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_3.wav
+/home/so-vits-svc/dataset/44k/adele/SrSPVB2d_j4_14.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_70.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_77.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_60.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/zSaFt_Jijaw_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_79.wav
+/home/so-vits-svc/dataset/44k/adele/oPmMUZbnc3o_1.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_37.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_70.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_20.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_55.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_26.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Ivc3hJhgfsE_7.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_7.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_26.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Ivc3hJhgfsE_35.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Sd4SJVsTulc_54.wav
+/home/so-vits-svc/dataset/44k/adele/QDt__hwn7Nc_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_29.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Zi_XLOBDo_Y_5.wav
+/home/so-vits-svc/dataset/44k/adele/jDvYDzFOK9A_21.wav
+/home/so-vits-svc/dataset/44k/adele/-q6gUoJgZCM_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_5.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_68.wav
+/home/so-vits-svc/dataset/44k/adele/qOagQWjKpyM_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/crbFmpezO4A_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/0P4A1K4lXDo_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_65.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/5X-Mrc2l1d0_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_24.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hgAOJ7Dw6WE_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_59.wav
+/home/so-vits-svc/dataset/44k/adele/N7ElyGXVvtg_3.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_114.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_10.wav
+/home/so-vits-svc/dataset/44k/adele/jb5g4UFHmfQ_15.wav
+/home/so-vits-svc/dataset/44k/adele/9Y06jakOV_g_14.wav
+/home/so-vits-svc/dataset/44k/adele/X-yIEMduRXk_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/llZ2NQaLXkU_33.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_120.wav
+/home/so-vits-svc/dataset/44k/adele/rYEDA3JcQqw_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hgAOJ7Dw6WE_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_136.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_43.wav
+/home/so-vits-svc/dataset/44k/adele/RDRwqTNLGDs_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_1.wav
+/home/so-vits-svc/dataset/44k/adele/X-yIEMduRXk_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VOj_xsc-EBM_41.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yombDhjRK8k_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_31.wav
+/home/so-vits-svc/dataset/44k/adele/-q6gUoJgZCM_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jl-LykdDi7I_31.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hAtfgmq_BP4_46.wav
+/home/so-vits-svc/dataset/44k/adele/l83md2sMAA4_16.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_40.wav
+/home/so-vits-svc/dataset/44k/adele/lHv1COHECuM_16.wav
+/home/so-vits-svc/dataset/44k/adele/3PzOMc3w4PA_14.wav
+/home/so-vits-svc/dataset/44k/adele/oPmMUZbnc3o_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/llZ2NQaLXkU_1.wav
+/home/so-vits-svc/dataset/44k/adele/8sQnCv75IKA_9.wav
+/home/so-vits-svc/dataset/44k/adele/oPmMUZbnc3o_22.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ssYVdchC64s_28.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/F2AitTPI5U0_24.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_30.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_88.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hgAOJ7Dw6WE_25.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_92.wav
+/home/so-vits-svc/dataset/44k/adele/AIYpdjQVidc_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/1ZZQuj6htF4_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElZPE_Hv96k_31.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_11.wav
+/home/so-vits-svc/dataset/44k/adele/YQHsXMglC9A_17.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/wBvJ35gnR0Q_62.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_46.wav
+/home/so-vits-svc/dataset/44k/adele/qemWRToNYJY_27.wav
+/home/so-vits-svc/dataset/44k/adele/ffcitRgiNDs_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_72.wav
+/home/so-vits-svc/dataset/44k/adele/pTpd0qG98eE_17.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_17.wav
+/home/so-vits-svc/dataset/44k/adele/YQHsXMglC9A_19.wav
+/home/so-vits-svc/dataset/44k/adele/dJg4_rL9h7Q_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/q8w1d01Y2vY_9.wav
+/home/so-vits-svc/dataset/44k/adele/N7ElyGXVvtg_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElZPE_Hv96k_7.wav
+/home/so-vits-svc/dataset/44k/adele/BW9Fzwuf43c_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/98XFOIkM8Ks_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/g4tpuu-Up90_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/UJHCB_J-Tmg_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Xh9Cp4rd7mI_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/98XFOIkM8Ks_24.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_21.wav
+/home/so-vits-svc/dataset/44k/adele/g7W_uoWsWOw_9.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_76.wav
+/home/so-vits-svc/dataset/44k/adele/3SojhAemf34_10.wav
+/home/so-vits-svc/dataset/44k/adele/HDpCv71r-0U_18.wav
+/home/so-vits-svc/dataset/44k/adele/SJIcjLrANs0_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_66.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/EG_UYkqvSN0_8.wav
+/home/so-vits-svc/dataset/44k/adele/9eGbL5jSMH8_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_88.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_23.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_146.wav
+/home/so-vits-svc/dataset/44k/adele/lHv1COHECuM_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Ivc3hJhgfsE_32.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hAtfgmq_BP4_36.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/gDgbYcVOVJU_30.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jDRTghGZ7XU_18.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/h_D3VFfhvs4_23.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oG08ukJPtR8_15.wav
+/home/so-vits-svc/dataset/44k/adele/fk4BbF7B29w_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/gDgbYcVOVJU_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/8fO8jVZ3T9g_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_32.wav
+/home/so-vits-svc/dataset/44k/adele/z7GCiVTlv04_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oG08ukJPtR8_16.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_93.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/YlJvMU-5NyA_1.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_44.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_66.wav
+/home/so-vits-svc/dataset/44k/adele/0put0_a--Ng_6.wav
+/home/so-vits-svc/dataset/44k/adele/g7U96o3f9FI_6.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_117.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/s3wNuru4U0I_22.wav
+/home/so-vits-svc/dataset/44k/adele/HfBsCBvjDVk_20.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_52.wav
+/home/so-vits-svc/dataset/44k/adele/0put0_a--Ng_7.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_31.wav
+/home/so-vits-svc/dataset/44k/adele/7zlEIikwxPo_3.wav
+/home/so-vits-svc/dataset/44k/adele/SJIcjLrANs0_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_18.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/sOnqjkJTMaA_52.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ssYVdchC64s_17.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jl-LykdDi7I_42.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_89.wav
+/home/so-vits-svc/dataset/44k/adele/LwXQ7WUh-D0_10.wav
+/home/so-vits-svc/dataset/44k/adele/pTpd0qG98eE_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qLCu4IXKvvU_29.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/4V90AmXnguw_6.wav
+/home/so-vits-svc/dataset/44k/adele/LwXQ7WUh-D0_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QNJL6nfu__Q_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oRdxUFDoQe0_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jl-LykdDi7I_32.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QGhaNkgJNro_23.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yONgtrFScNA_17.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/n3qQtSRmHxo_33.wav
+/home/so-vits-svc/dataset/44k/adele/3SojhAemf34_18.wav
+/home/so-vits-svc/dataset/44k/adele/l8djdhhFuxo_4.wav
+/home/so-vits-svc/dataset/44k/adele/L4wxMngrHis_18.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/RCmuTH6T7fk_6.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_25.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jl-LykdDi7I_29.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_56.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/n3qQtSRmHxo_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_56.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Sd4SJVsTulc_59.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElZPE_Hv96k_37.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_18.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_39.wav
+/home/so-vits-svc/dataset/44k/adele/YQHsXMglC9A_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/0RuAlyNclck_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/crbFmpezO4A_10.wav
+/home/so-vits-svc/dataset/44k/adele/oPmMUZbnc3o_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_116.wav
+/home/so-vits-svc/dataset/44k/adele/N7ElyGXVvtg_10.wav
+/home/so-vits-svc/dataset/44k/adele/YQHsXMglC9A_14.wav
+/home/so-vits-svc/dataset/44k/adele/g7U96o3f9FI_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/YlJvMU-5NyA_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/wBvJ35gnR0Q_27.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/zSaFt_Jijaw_9.wav
+/home/so-vits-svc/dataset/44k/adele/0put0_a--Ng_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_22.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/5X-Mrc2l1d0_14.wav
+/home/so-vits-svc/dataset/44k/adele/mnH9FHfD0Zg_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_34.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_134.wav
+/home/so-vits-svc/dataset/44k/adele/dJg4_rL9h7Q_22.wav
+/home/so-vits-svc/dataset/44k/adele/EFIfRhk8NRc_4.wav
+/home/so-vits-svc/dataset/44k/adele/DeumyOzKqgI_1.wav
+/home/so-vits-svc/dataset/44k/adele/rYEDA3JcQqw_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/F2AitTPI5U0_5.wav
+/home/so-vits-svc/dataset/44k/adele/fk4BbF7B29w_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_30.wav
+/home/so-vits-svc/dataset/44k/adele/l8djdhhFuxo_14.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_7.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hAtfgmq_BP4_53.wav
+/home/so-vits-svc/dataset/44k/adele/X-yIEMduRXk_6.wav
+/home/so-vits-svc/dataset/44k/adele/qemWRToNYJY_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/wBvJ35gnR0Q_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_32.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_20.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_100.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_66.wav
+/home/so-vits-svc/dataset/44k/adele/dJg4_rL9h7Q_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_43.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/UJHCB_J-Tmg_36.wav
+/home/so-vits-svc/dataset/44k/adele/HDpCv71r-0U_28.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_28.wav
+/home/so-vits-svc/dataset/44k/adele/YQHsXMglC9A_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_152.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oG08ukJPtR8_25.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_23.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Ivc3hJhgfsE_23.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_6.wav
+/home/so-vits-svc/dataset/44k/adele/IJYWmqlty_8_1.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_74.wav
+/home/so-vits-svc/dataset/44k/adele/DDWKuo3gXMQ_35.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_59.wav
+/home/so-vits-svc/dataset/44k/adele/-hzFTJDJGkQ_11.wav
+/home/so-vits-svc/dataset/44k/adele/g5D8KA00Ubw_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_25.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/gDgbYcVOVJU_21.wav
+/home/so-vits-svc/dataset/44k/adele/RDRwqTNLGDs_25.wav
+/home/so-vits-svc/dataset/44k/adele/jb5g4UFHmfQ_18.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/DKFS2tDsZRY_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/wBvJ35gnR0Q_41.wav
+/home/so-vits-svc/dataset/44k/adele/DeumyOzKqgI_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Xh9Cp4rd7mI_7.wav
+/home/so-vits-svc/dataset/44k/adele/BW9Fzwuf43c_17.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Zi_XLOBDo_Y_18.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_82.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/gDgbYcVOVJU_28.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_124.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/JbHI1yI1Ndk_41.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/UJHCB_J-Tmg_38.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/gDgbYcVOVJU_40.wav
+/home/so-vits-svc/dataset/44k/adele/9IzKueQ2ZxY_13.wav
+/home/so-vits-svc/dataset/44k/adele/i0e0baMwuIk_11.wav
+/home/so-vits-svc/dataset/44k/adele/pTpd0qG98eE_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Sd4SJVsTulc_52.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/h_D3VFfhvs4_24.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/LeiFF0gvqcc_29.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/F2AitTPI5U0_11.wav
+/home/so-vits-svc/dataset/44k/adele/RDRwqTNLGDs_20.wav
+/home/so-vits-svc/dataset/44k/adele/jb5g4UFHmfQ_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_36.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_75.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/EG_UYkqvSN0_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElN_4vUvTPs_3.wav
+/home/so-vits-svc/dataset/44k/adele/l8djdhhFuxo_11.wav
+/home/so-vits-svc/dataset/44k/adele/cKem3ZpPSHU_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_34.wav
+/home/so-vits-svc/dataset/44k/adele/RDRwqTNLGDs_7.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_68.wav
+/home/so-vits-svc/dataset/44k/adele/jDvYDzFOK9A_12.wav
+/home/so-vits-svc/dataset/44k/adele/yoHS2T32Z5o_32.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_50.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/h_D3VFfhvs4_7.wav
+/home/so-vits-svc/dataset/44k/adele/8sQnCv75IKA_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QNJL6nfu__Q_29.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Ivc3hJhgfsE_12.wav
+/home/so-vits-svc/dataset/44k/adele/9YH5CoKqM8I_21.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_9.wav
+/home/so-vits-svc/dataset/44k/adele/KbMp1o3NBbI_22.wav
+/home/so-vits-svc/dataset/44k/adele/z7GCiVTlv04_6.wav
+/home/so-vits-svc/dataset/44k/adele/jptpkiCVfAs_16.wav
+/home/so-vits-svc/dataset/44k/adele/g7U96o3f9FI_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/wBvJ35gnR0Q_42.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_96.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_27.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/DKFS2tDsZRY_8.wav
+/home/so-vits-svc/dataset/44k/adele/l8djdhhFuxo_3.wav
+/home/so-vits-svc/dataset/44k/adele/ffcitRgiNDs_9.wav
+/home/so-vits-svc/dataset/44k/adele/rRWJcxa6mdo_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/RCmuTH6T7fk_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_94.wav
+/home/so-vits-svc/dataset/44k/adele/IJYWmqlty_8_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_47.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hgAOJ7Dw6WE_27.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ic1fvvkgC5w_31.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/d9O2uVmoKpc_0.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_137.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_92.wav
+/home/so-vits-svc/dataset/44k/adele/0put0_a--Ng_8.wav
+/home/so-vits-svc/dataset/44k/adele/a2giXO6eyuI_6.wav
+/home/so-vits-svc/dataset/44k/adele/U3ASj1L6_sY_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qLCu4IXKvvU_25.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_94.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VrTC3FHE8No_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/4V90AmXnguw_5.wav
+/home/so-vits-svc/dataset/44k/adele/i0e0baMwuIk_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/0P4A1K4lXDo_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/YlJvMU-5NyA_4.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_24.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/USb2tN1Yq18_15.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_28.wav
+/home/so-vits-svc/dataset/44k/adele/X-yIEMduRXk_22.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_47.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VOj_xsc-EBM_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QNJL6nfu__Q_23.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_0.wav
+/home/so-vits-svc/dataset/44k/adele/dJg4_rL9h7Q_32.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jl-LykdDi7I_28.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yONgtrFScNA_4.wav
+/home/so-vits-svc/dataset/44k/adele/g5D8KA00Ubw_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QNJL6nfu__Q_25.wav
+/home/so-vits-svc/dataset/44k/adele/yoHS2T32Z5o_18.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/s3wNuru4U0I_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_6.wav
+/home/so-vits-svc/dataset/44k/adele/jDvYDzFOK9A_28.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_39.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/5X-Mrc2l1d0_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oG08ukJPtR8_12.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VrTC3FHE8No_15.wav
+/home/so-vits-svc/dataset/44k/adele/mnH9FHfD0Zg_19.wav
+/home/so-vits-svc/dataset/44k/adele/KnEgu_jFvk4_14.wav
+/home/so-vits-svc/dataset/44k/adele/yoHS2T32Z5o_7.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Ivc3hJhgfsE_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/yUi_S6YWjZw_4.wav
+/home/so-vits-svc/dataset/44k/adele/3SojhAemf34_7.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_50.wav
+/home/so-vits-svc/dataset/44k/adele/HfBsCBvjDVk_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/tOgftEf7UDg_8.wav
+/home/so-vits-svc/dataset/44k/adele/cKem3ZpPSHU_9.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/YlJvMU-5NyA_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XAi3VTSdTxU_21.wav
+/home/so-vits-svc/dataset/44k/adele/jb5g4UFHmfQ_30.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/8fO8jVZ3T9g_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_99.wav
+/home/so-vits-svc/dataset/44k/adele/EqiHnmjY9fA_12.wav
+/home/so-vits-svc/dataset/44k/adele/KbMp1o3NBbI_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_83.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cQVsfzbeeM4_0.wav
+/home/so-vits-svc/dataset/44k/adele/a2giXO6eyuI_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oG08ukJPtR8_24.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/1ZZQuj6htF4_8.wav
+/home/so-vits-svc/dataset/44k/adele/g7W_uoWsWOw_11.wav
+/home/so-vits-svc/dataset/44k/adele/3SojhAemf34_4.wav
+/home/so-vits-svc/dataset/44k/adele/mnH9FHfD0Zg_11.wav
+/home/so-vits-svc/dataset/44k/adele/jDvYDzFOK9A_24.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VOj_xsc-EBM_39.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/llZ2NQaLXkU_16.wav
+/home/so-vits-svc/dataset/44k/adele/cvqFu6HL0Xs_17.wav
+/home/so-vits-svc/dataset/44k/adele/DDWKuo3gXMQ_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/98XFOIkM8Ks_23.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VrTC3FHE8No_14.wav
+/home/so-vits-svc/dataset/44k/adele/Ri7-vnrJD3k_5.wav
+/home/so-vits-svc/dataset/44k/adele/g7W_uoWsWOw_7.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_36.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/oRdxUFDoQe0_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/nqxVMLVe62U_10.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_53.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/llZ2NQaLXkU_31.wav
+/home/so-vits-svc/dataset/44k/adele/LwXQ7WUh-D0_21.wav
+/home/so-vits-svc/dataset/44k/adele/DDWKuo3gXMQ_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QNJL6nfu__Q_10.wav
+/home/so-vits-svc/dataset/44k/adele/g7U96o3f9FI_0.wav
+/home/so-vits-svc/dataset/44k/adele/cvqFu6HL0Xs_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/g4tpuu-Up90_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jl-LykdDi7I_34.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_85.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/y2bVIBwpCTA_4.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_158.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/sOnqjkJTMaA_45.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hAtfgmq_BP4_43.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/EG_UYkqvSN0_24.wav
+/home/so-vits-svc/dataset/44k/adele/hLQl3WQQoQ0_15.wav
+/home/so-vits-svc/dataset/44k/adele/SrSPVB2d_j4_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_71.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElZPE_Hv96k_23.wav
+/home/so-vits-svc/dataset/44k/adele/g7U96o3f9FI_9.wav
+/home/so-vits-svc/dataset/44k/adele/9YH5CoKqM8I_25.wav
+/home/so-vits-svc/dataset/44k/adele/QDt__hwn7Nc_4.wav
+/home/so-vits-svc/dataset/44k/adele/HfBsCBvjDVk_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/F2AitTPI5U0_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Sd4SJVsTulc_33.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_29.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/llZ2NQaLXkU_35.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/8fO8jVZ3T9g_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_25.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_14.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_42.wav
+/home/so-vits-svc/dataset/44k/adele/SrSPVB2d_j4_17.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/l039y9FaIjc_10.wav
+/home/so-vits-svc/dataset/44k/adele/jb5g4UFHmfQ_7.wav
+/home/so-vits-svc/dataset/44k/adele/g5D8KA00Ubw_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/gDgbYcVOVJU_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_16.wav
+/home/so-vits-svc/dataset/44k/adele/qemWRToNYJY_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QNJL6nfu__Q_12.wav
+/home/so-vits-svc/dataset/44k/adele/9YH5CoKqM8I_6.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_49.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ic1fvvkgC5w_9.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_10.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_41.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_10.wav
+/home/so-vits-svc/dataset/44k/adele/9Y06jakOV_g_7.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_82.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/wBvJ35gnR0Q_22.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/1ZZQuj6htF4_10.wav
+/home/so-vits-svc/dataset/44k/adele/KbMp1o3NBbI_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/BMHZ_thNPB4_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElN_4vUvTPs_6.wav
+/home/so-vits-svc/dataset/44k/adele/pTpd0qG98eE_15.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_137.wav
+/home/so-vits-svc/dataset/44k/adele/g7U96o3f9FI_28.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_42.wav
+/home/so-vits-svc/dataset/44k/adele/9Y06jakOV_g_19.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_100.wav
+/home/so-vits-svc/dataset/44k/adele/oPmMUZbnc3o_28.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/jDRTghGZ7XU_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qLCu4IXKvvU_5.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_122.wav
+/home/so-vits-svc/dataset/44k/adele/RDRwqTNLGDs_23.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ic1fvvkgC5w_43.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_81.wav
+/home/so-vits-svc/dataset/44k/adele/9Y06jakOV_g_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/f3V-7DEAgdc_1.wav
+/home/so-vits-svc/dataset/44k/adele/hLQl3WQQoQ0_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_40.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_25.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_4.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/n3qQtSRmHxo_24.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_61.wav
+/home/so-vits-svc/dataset/44k/adele/X-yIEMduRXk_2.wav
+/home/so-vits-svc/dataset/44k/adele/BW9Fzwuf43c_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Sk5OECxSawM_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VOj_xsc-EBM_48.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XY6fbugcisY_31.wav
+/home/so-vits-svc/dataset/44k/adele/YQHsXMglC9A_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/Sk5OECxSawM_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_132.wav
+/home/so-vits-svc/dataset/44k/adele/HDpCv71r-0U_5.wav
+/home/so-vits-svc/dataset/44k/adele/g7U96o3f9FI_13.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_9.wav
+/home/so-vits-svc/dataset/44k/adele/SrSPVB2d_j4_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XAi3VTSdTxU_33.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/cXl5WUBDe0k_62.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XS9oPdlax0s_55.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/QqV_Iru4I2k_19.wav
+/home/so-vits-svc/dataset/44k/adele/lHv1COHECuM_0.wav
+/home/so-vits-svc/dataset/44k/adele/3SojhAemf34_16.wav
+/home/so-vits-svc/dataset/44k/adele/vTsCBh-tDqk_111.wav
+/home/so-vits-svc/dataset/44k/adele/ws3mNc8izuk_3.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/XbFpujJMAiU_78.wav
+/home/so-vits-svc/dataset/44k/adele/DeumyOzKqgI_17.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_24.wav
+/home/so-vits-svc/dataset/44k/adele/0TruPEEie3c_10.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VrTC3FHE8No_13.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hAtfgmq_BP4_38.wav
+/home/so-vits-svc/dataset/44k/adele/YQHsXMglC9A_8.wav
+/home/so-vits-svc/dataset/44k/adele/pTpd0qG98eE_25.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElN_4vUvTPs_15.wav
+/home/so-vits-svc/dataset/44k/adele/HDpCv71r-0U_21.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_19.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/q8w1d01Y2vY_11.wav
+/home/so-vits-svc/dataset/44k/adele/l8djdhhFuxo_1.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_18.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/98XFOIkM8Ks_9.wav
+/home/so-vits-svc/dataset/44k/adele/niG3YMU6jFk_7.wav
+/home/so-vits-svc/dataset/44k/adele/9YH5CoKqM8I_29.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/0RuAlyNclck_24.wav
+/home/so-vits-svc/dataset/44k/adele/g7U96o3f9FI_20.wav
+/home/so-vits-svc/dataset/44k/adele/oPmMUZbnc3o_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/8fO8jVZ3T9g_5.wav
+/home/so-vits-svc/dataset/44k/adele/KbMp1o3NBbI_8.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/g4tpuu-Up90_22.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/5X-Mrc2l1d0_4.wav
+/home/so-vits-svc/dataset/44k/adele/RDRwqTNLGDs_9.wav
+/home/so-vits-svc/dataset/44k/adele/9eGbL5jSMH8_21.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_11.wav
+/home/so-vits-svc/dataset/44k/adele/cKem3ZpPSHU_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ssYVdchC64s_14.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/VOj_xsc-EBM_36.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_160.wav
+/home/so-vits-svc/dataset/44k/adele/g7U96o3f9FI_40.wav
+/home/so-vits-svc/dataset/44k/adele/dJg4_rL9h7Q_33.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/-IMOBCzDKiY_0.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/D6BIhGnoNTg_25.wav
+/home/so-vits-svc/dataset/44k/adele/BW9Fzwuf43c_19.wav
+/home/so-vits-svc/dataset/44k/adele/Mi2cURoOAYY_61.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/tOgftEf7UDg_18.wav
+/home/so-vits-svc/dataset/44k/adele/N7ElyGXVvtg_1.wav
+/home/so-vits-svc/dataset/44k/adele/9IzKueQ2ZxY_11.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/qh-i9JGr1oM_60.wav
+/home/so-vits-svc/dataset/44k/adele/nV8UZJNBY6Y_32.wav
+/home/so-vits-svc/dataset/44k/adele/a1IuJLebHgM_20.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/tOgftEf7UDg_6.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/ElZPE_Hv96k_13.wav
+/home/so-vits-svc/dataset/44k/adele/WjqYTpE6Qdg_3.wav
+/home/so-vits-svc/dataset/44k/adele/cvqFu6HL0Xs_16.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/hAtfgmq_BP4_1.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/wBvJ35gnR0Q_66.wav
+/home/so-vits-svc/dataset/44k/adele/z7GCiVTlv04_2.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/YlJvMU-5NyA_0.wav
+/home/so-vits-svc/dataset/44k/adele/XfzpYcwiUrA_81.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/h_D3VFfhvs4_26.wav
+/home/so-vits-svc/dataset/44k/micheal jakson/sOnqjkJTMaA_49.wav
+/home/so-vits-svc/dataset/44k/adele/niIWKO6LNRM_22.wav

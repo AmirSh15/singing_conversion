@@ -147,9 +147,6 @@ inference/chunks_temp.json
 hubert/checkpoint_best_legacy_500.pt
 configs/config.json
 configs/diffusion.yaml
-filelists/test.txt
-filelists/train.txt
-filelists/val.txt
 .idea/
 .vscode/
 .idea/modules.xml

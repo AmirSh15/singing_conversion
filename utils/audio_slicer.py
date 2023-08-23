@@ -5,9 +5,11 @@ import librosa  # Optional. Use any library you like to read audio files.
 import soundfile
 from tqdm import tqdm  # Optional. Use any library you like to write audio files.
 
-from slicer2 import Slicer
+from slicer2 import Slicer_advanced
+from slicer import Slicer
+
     
-def main():
+def audio_slice(advanced=False):
     
     # get the arguments from the command line
     parser = argparse.ArgumentParser(description="A program to slice audio files")
@@ -41,7 +43,16 @@ def main():
         default=2,
         help="the minimum length of the sliced audio files in seconds",
     )
+    parser.add_argument(
+        "--advanced",
+        type=bool,
+        default=False,
+        help="whether to use the advanced slicing method",
+    )
     args = parser.parse_args()
+    
+    if args.advanced or advanced:
+        args.advanced = True
     
     # loop over directories in the raw audio path
     for dir in os.listdir(args.raw_audio_path):
@@ -62,24 +73,37 @@ def main():
                 audio_file_name = os.path.basename(audio_file).split(".")[0]
                 
                 # find the corresponding vocal audio file
-                vocal_audio_file = glob.glob(os.path.join(args.raw_vocal_audio_path, dir, f"*{audio_file_name}*"))[0]
+                if args.advanced:
+                    vocal_audio_file = glob.glob(os.path.join(args.raw_vocal_audio_path, dir, f"*{audio_file_name}*"))[0]
                 
                 # read the audio files
                 audio, sr = librosa.load(audio_file, sr=None, mono=False)
-                vocal_audio, vocal_sr = librosa.load(vocal_audio_file, sr=None, mono=False)
+                if args.advanced:
+                    vocal_audio, vocal_sr = librosa.load(vocal_audio_file, sr=None, mono=False)
                 
                 # slice the audio files
-                slicer = Slicer(
-                    sr=sr,
-                    threshold=-30,
-                    min_length=5000,
-                    min_interval=300,
-                    hop_size=10,
-                    max_sil_kept=500
-                )
+                if args.advanced:
+                    slicer = Slicer_advanced(
+                        sr=sr,
+                        threshold=-30,
+                        min_length=5000,
+                        min_interval=300,
+                        hop_size=10,
+                        max_sil_kept=500
+                    )
+                    chunks = slicer.slice(audio, vocal_audio)
+                else:
+                    slicer = Slicer(
+                        sr=sr,
+                        threshold=-30,
+                        min_length=5000,
+                        min_interval=300,
+                        hop_size=10,
+                        max_sil_kept=500
+                    )
+                    chunks = slicer.slice(audio)
                 
-                # slice the audio file
-                chunks = slicer.slice(audio, vocal_audio)
+                
                 
                 # save the sliced audio files
                 split = 0
@@ -103,4 +127,4 @@ def main():
                 
                 
 if __name__ == '__main__':
-    main()
+    audio_slice()

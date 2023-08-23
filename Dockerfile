@@ -36,6 +36,8 @@ RUN pip install -r so-vits-svc/requirements.txt
 RUN pip install pytube
 RUN pip install pydub
 RUN pip install youtube-search-python
+RUN pip install librosa
+RUN pip install samplerate
 
 # copy files
 COPY . . 

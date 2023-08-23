@@ -1,4 +1,5 @@
 # files
+*.pyc
 *.pt
 *.pth
 *.log
@@ -6,6 +7,7 @@ events*
 so-vits-svc/pretrain/nsf_hifigan/model
 so-vits-svc/pretrain/nsf_hifigan/config.json
 so-vits-svc/raw/failed_video_ids.txt
+nohup.out
 
 # directories
 .vscode/
@@ -14,3 +16,4 @@ so-vits-svc/dataset/44k/*/
 so-vits-svc/dataset_raw/*/
 so-vits-svc/raw/*/
 so-vits-svc/raw_vocal/*/
+utils/__pycache__/*

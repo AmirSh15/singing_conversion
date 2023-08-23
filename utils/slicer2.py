@@ -38,7 +38,7 @@ def get_rms(
     return np.sqrt(power)
 
 
-class Slicer:
+class Slicer_advanced:
     def __init__(self,
                  sr: int,
                  threshold: float = -40.,
@@ -171,7 +171,7 @@ def main():
         out = os.path.dirname(os.path.abspath(args.audio))
     audio, sr = librosa.load(args.audio, sr=None, mono=False)
     vocal_audio, vocal_sr = librosa.load(args.vocal_audio, sr=None, mono=False)
-    slicer = Slicer(
+    slicer = Slicer_advanced(
         sr=sr,
         threshold=args.db_thresh,
         min_length=args.min_length,

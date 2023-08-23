@@ -73,7 +73,7 @@ def process_all_speakers():
 # multi process
 
 
-def process_all_speakers():
+def process_all_speakers(speakers, args):
     process_count = 30 if os.cpu_count() > 60 else (os.cpu_count() - 2 if os.cpu_count() > 4 else 1)
     with ProcessPoolExecutor(max_workers=process_count) as executor:
         for speaker in speakers:
@@ -85,7 +85,7 @@ def process_all_speakers():
                     pass
 
 
-if __name__ == "__main__":
+def resample():
     parser = argparse.ArgumentParser()
     parser.add_argument("--sr2", type=int, default=44100, help="sampling rate")
     parser.add_argument("--in_dir", type=str, default="/home/so-vits-svc/dataset_raw", help="path to source dir")
@@ -95,4 +95,7 @@ if __name__ == "__main__":
 
     print(f"CPU count: {cpu_count()}")
     speakers = os.listdir(args.in_dir)
-    process_all_speakers()
+    process_all_speakers(speakers, args)
+
+if __name__ == "__main__":
+    resample()
